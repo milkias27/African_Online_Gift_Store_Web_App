@@ -1,0 +1,24 @@
+/* Link */
+.newanchor:link {
+  color: #333333;
+  background-color: transparent;
+  text-decoration: none;
+}
+.newanchor:visited {
+  color: #f39d17;
+  background-color: transparent;
+  text-decoration: none;
+}
+.newanchor:hover {
+  /* color: #6E260E; */
+  color:#64b5f6;
+  background-color: transparent;
+  text-decoration: none;
+}
+.newanchor:active {
+  color: #2a2a2a ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* #ffbd03 */
